@@ -1,0 +1,41 @@
+
+/*<form action="page2.html">
+  <table >
+  
+  <tr>
+       <td>Name</td>
+	   <td><input type="text" id="txt"  /></td>
+  </tr>
+  
+  <tr>
+        <td>Address</td>
+		 <td><input type="text" id="txt1"/></td>
+  </tr>
+  
+  <tr>
+       <td>Mobile</td>
+	   <td><input type="number" id="txt2" maxlength="10"/></td>
+  </tr>	   
+  
+  <tr>
+       <td>Reference</td>
+	   <td><input type="text" id="txt3" /></td>
+  </tr>
+  
+  <tr>
+       <td>Work Description</td>
+	   <td><input type="text" id="txt4"/></td>
+  </tr>
+
+  <tr>
+       <td> Date/Time</td>
+	   <td><input type="dateTime" id="currentDateTime"></td>
+  </tr>
+  
+  <tr>
+      <td colspan="2" align="center"><input type="submit" value="SUBMIT" onclick="passvalue()" /></td>
+ </tr>
+ 
+ </table>*/
+ 
+ <
